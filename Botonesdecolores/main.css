@@ -1,0 +1,38 @@
+.grid{
+    display: grid;
+    grid-template-columns: 25% 25% 25%;
+    gap: 12.5%;
+}
+
+.grid button{
+    aspect-ratio: 1/1;
+}
+
+.grid button:hover{
+    border: 2px solid yellow;
+}
+
+.azul{
+    background-color: blue;
+}
+
+.verde{
+    background-color: green;
+}
+
+.rojo{
+    background-color: red;
+
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-bottom: 10%;
+    padding-left: 0cm;
+
+    
+
+}
